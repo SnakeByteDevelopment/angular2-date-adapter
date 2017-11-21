@@ -1,0 +1,55 @@
+{
+  "_from": "git+https://github.com/SnakeByteDevelopment/angular2-date-adapter.git",
+  "_id": "@angular/date-adapter@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-QH71FBQsORsRCnXZQYEvmJB+qJU=",
+  "_location": "/@angular/date-adapter",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/SnakeByteDevelopment/angular2-date-adapter",
+    "rawSpec": "git+https://github.com/SnakeByteDevelopment/angular2-date-adapter",
+    "saveSpec": "git+https://github.com/SnakeByteDevelopment/angular2-date-adapter.git",
+    "fetchSpec": "https://github.com/SnakeByteDevelopment/angular2-date-adapter.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/SnakeByteDevelopment/angular2-date-adapter.git#0e0fdf444a3a3e787b169816bfac0042b6c03d06",
+  "_spec": "git+https://github.com/SnakeByteDevelopment/angular2-date-adapter",
+  "_where": "C:\\Users\\Gert Pellin\\workplace\\qnh\\PromoQwebsite\\PromoQ",
+  "author": {
+    "name": "switch87",
+    "email": "gert@pellin.be"
+  },
+  "bugs": {
+    "url": "https://github.com/SnakeByteDevelopment/angular2-date-adapter/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "custom date adapter for angular2+ ",
+  "homepage": "https://github.com/SnakeByteDevelopment/angular2-date-adapter#readme",
+  "keywords": [
+    "angular2",
+    "angular4",
+    "angular5",
+    "material2",
+    "iso8601",
+    "YYYYMMDD",
+    "DDMMYYYY",
+    "date"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@angular/date-adapter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnakeByteDevelopment/angular2-date-adapter.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
